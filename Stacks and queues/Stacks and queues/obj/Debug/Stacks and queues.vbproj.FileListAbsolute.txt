@@ -1,0 +1,10 @@
+i:\documents\visual studio 2013\Projects\Stacks and queues\Stacks and queues\bin\Debug\Stacks and queues.exe.config
+i:\documents\visual studio 2013\Projects\Stacks and queues\Stacks and queues\obj\Debug\Stacks_and_queues.Form1.resources
+i:\documents\visual studio 2013\Projects\Stacks and queues\Stacks and queues\obj\Debug\Stacks_and_queues.Resources.resources
+i:\documents\visual studio 2013\Projects\Stacks and queues\Stacks and queues\obj\Debug\Stacks and queues.vbproj.GenerateResource.Cache
+i:\documents\visual studio 2013\Projects\Stacks and queues\Stacks and queues\bin\Debug\Stacks and queues.exe
+i:\documents\visual studio 2013\Projects\Stacks and queues\Stacks and queues\bin\Debug\Stacks and queues.pdb
+i:\documents\visual studio 2013\Projects\Stacks and queues\Stacks and queues\bin\Debug\Stacks and queues.xml
+i:\documents\visual studio 2013\Projects\Stacks and queues\Stacks and queues\obj\Debug\Stacks and queues.exe
+i:\documents\visual studio 2013\Projects\Stacks and queues\Stacks and queues\obj\Debug\Stacks and queues.xml
+i:\documents\visual studio 2013\Projects\Stacks and queues\Stacks and queues\obj\Debug\Stacks and queues.pdb
